@@ -1,0 +1,5 @@
+timestamp,level,message
+2021-06-23 10:00:00,ERROR,Falha na conexão
+2021-06-23 10:01:00,INFO,Log de informação
+2021-06-23 10:02:00,ERROR,Erro ao processar dados
+
