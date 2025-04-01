@@ -10,6 +10,11 @@
 # Imagine que você está trabalhando com dados de sensores IoT. 
 # Os dados incluem medições de temperatura. Você precisa classificar cada leitura 
 # como 'Baixa', 'Normal' ou 'Alta'. Considerando que:
+# - 'Baixa' se a temperatura estiver abaixo de 20 graus
+# - 'Normal' se a temperatura estiver entre 20 e 25 graus
+# - 'Alta' se a temperatura estiver acima de 25 graus
+
+
 
 
 
